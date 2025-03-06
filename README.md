@@ -1,4 +1,4 @@
-# UAC-bypass
+# UAC-bypass (limited)
 ## Very basic UAC bypass made for minimal things.
 
 How to use: drag your desired application that requires administrator on top of the bat file.
